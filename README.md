@@ -71,9 +71,9 @@ To develop the skills in Unity required to create the game, I would complete htt
 ## Exploration of Existing Ideas
 | Existing Idea | Plus | Minus | Implication | 
 |----------|----------|----------| -------- | 
-| Add image and name of existing game / simulation  | Add what you think the existing idea has done well - no dot points, use sentences. | Add what you think has not been done well - no dot points, use sentences. | Evaluate what this means for your game moving forward. Look at both positive and negative aspects - what will you use based on these points, and what will you avoid? What is the implication for your project? | 
-|   |  |  |  | 
-|  |  |  |  | 
+| ![](Sledding_Game.png) Sledding Game  | Add what you think the existing idea has done well - no dot points, use sentences. | Add what you think has not been done well - no dot points, use sentences. | Evaluate what this means for your game moving forward. Look at both positive and negative aspects - what will you use based on these points, and what will you avoid? What is the implication for your project? | 
+| ![](Animal_Crossing.png) Animal Crossing |  |  |  | 
+| ![](A_Short_Hike.png) A Short Hike |  |  |  | 
 
 ## Flowchart
 
