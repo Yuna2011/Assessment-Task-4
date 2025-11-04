@@ -57,6 +57,7 @@ When the player provides an input, the outputs will include:
 - No data will be sent or received over the internet
 - All actions, inventory and game stats are restarted and reset when the game is closed
 
+
 ## Functional Requirements
 **User Interaction:**
 
