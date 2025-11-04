@@ -22,16 +22,40 @@ Many people experience stress, overstimulation or difficulty finding a moment of
 To develop the skills in Unity required to create the game, I would complete https://learn.unity.com/ and other tutorials from Youtube. 
 
 ## Requirements Outline 
-**Inputs:**
+**Inputs:**   
+User inputs will include :  
+- **Arrow keys or WASD** to move the player forward, backward, left and right
+- **Spacebar** for jumping
+- **Mouse clicks** to select buttons or interact with objects
+- **Mouse movement** to look around the environment and control the camera view
+- **Esc key** to open/close settings 
+- **I key** to open or close inventory 
 
-**Processing:**
+**Processing:**  
+When the player provides an input, the processes will include:
+- The program reads the key inputs and updates the player's position and rotation in the 3D environment
+- Mouse input adjusts the camera angle 
+- The mouse clicks are detected to interact with objects like firewood
+- When an item is collected, the inventory is updated 
+- The spacebar makes the player jump
+- Pressing the Esc key open or closes the settings menu
+- Pressing the I key opens or closes the inventory screen
 
-**Outputs:**
+**Outputs:**. 
+When the player provides an input, the outputs will include:
+- The game will update the player's position and rotation on screen based on movement inputs
+- The camera view will change according to mouse movement, showing different angles of the environment
+- Sounds and effects will play according to player movement and interactions
+- Objects will respond visually when clicked
+- The inventory panel will display collected items when opened
+- The settings menu will display pause, unpause and quit when opened
 
 **Transmission:**
+- This game is a single-player experience
 
 **Storage:**
-
+- No data will be sent or received over the internet
+- All actions, inventory and game stats are restarted and reset when the game is closed
 
 ## Functional Requirements
 **User Interaction:**
