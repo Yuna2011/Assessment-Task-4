@@ -59,37 +59,69 @@ When the player provides an input, the outputs will include:
 
 
 ## Functional Requirements
-**User Interaction:**
+**User Interaction:**  
+- The WASD or Arrow Keys allow the player to move forward, backward, left and right through the snowy environment
+- Mouse movement controls the camera, letting the player look around smoothly. Mouse clicks are used to interact with nearby objects, such as collecting firewood 
+- Pressing the spacebar makes the player jump to navigate the uneven terrrain. 
+- The Esc Key opens or closes the settings menu, pausing the game 
+- The I Key opens or closes the inventory, allowing the player to view collected items
+- When the player interacts with an objects, the system responds by updating the inventory or playing sound effects
 
-**Simulation Mechanics:**
+**Simulation Mechanics:**  
+1. The player will move through a 3D snowy environment using keyboard and mouse inputs
+2. The game simulates cold weather conditions, gradually decreasing the player's health level over time
+3. The player must collect firewood from the environment by interacting with objects
+4. Collected firewood will be used to build and light fires, whcih restore warmth and prevent the player's health from depleting
+5. The game continuously updates the player's health and inventory based on actions and the environment
+6. If the player's health reaches 0, the simulation resets representing that the character was overcome by the cold
+7. All progress and stats are reset when the game is closed, allowing a fresh start
 
 **Progress Tracking:**
+- The game will track player progress through health and inventory levels
+- Visual indicators such as health and warmth bars will be provided 
+- Sound effects and visual cues will give feedback when a player interacts with objects
+- If the player's health reaches 0, a message will appear to indicate the player has failed and must restart
+- Progress will be temporary and will reset each time the game is closed or restarted
 
 
-### Non-Functional Requirements
+## Non-Functional Requirements
 **Performance Requirements:**
+- The game should load within 10 seconds
+- Player movement and camera controls should respind instantly to kayboard and mouse inputs with no noticeable delay
+- All interactions with objects should trigger immediate sound and visual cues
+- The game environment should maintain stable performance and smooth visuals even when objects and particle effects (such as snow or fire) are active
 
 **Usability Requirements:**
-
-**Compatibility:**
+- The game will include a main menu screen with clear options to start, quit and view instructions
+- The instructions section will explain the basic controls and the main objective of the game
+- The user interface will be simple, with clear icons and readable text
+- The overall design will ensure users can navigate th emenus and other game elements quickly and without confusion
 
 **Scalability Requirements:**
-
-**Reliability and Availability:**
+- The game design should allow future expansion without reducing performance or stability
+- Additional features could include the ability to collect and eat food, as well as to cook meals at the campfire to restore health faster
+- Future updates could also introduce wild animals that players can interact with
 
 
 ## Consideration of Social and Ethical Issues
-**Define the following terms:**
+**Define the following terms:**  
+1. Equity - the quality of being fair and just, expecially in a way that takes account of and seeks to address the existing inequalities
+2. Accessibility - the quality of being able to be reached, enetered or used by people
 
-**Accessibility:**
+**Accessibility:**  
+The game will aim to be accessible to players of all abilities by providing clear visual cues, simple controls and easy-to-read text. The instructions will be displayed in a readable font and size to assist players with visual and auditory difficulties. Overall, the design will focus on simplicity and clarity to ensure that all users are able to enjoy and understand the gameplay experience.
 
-**Privacy and Data Protection:**
+**Privacy and Data Protection:**  
+The game will not collect any personal information or user data. All gameplay including health, inventory and progress is stored temporarily in memory and resets when the game is closed. Since no data is saved locally or online, there are no privacy or data protection concerns for the players. 
 
-**Fairness and Representation:**
+**Fairness and Representation:**  
+The game is designed to avoid stereotupe or bias as it focuses on survival and exploration in a snowy environment. The character does not have a specific gender, race or cultural background and all interactions and scenarios have no relation to do with identity. 
 
-**Mental and Emotional Weel-Being:**
+**Mental and Emotional Weel-Being:**  
+The game promotes a calm and relaxing experience for players. The snowy environment, gentle visuals and slow-paced gameplay encourages mindfulness and reduces stress. By focusing on exploration, collecting resources and maintaining warmth, the game provides a soothing and positive experience without any violent or distressing content.
 
-**Cultural Sensitivities:**
+**Cultural Sensitivities:**  
+The game avoids content that could be offensive to different cultures by focusing on a neutral snowy environment wihtout references to specific religions, traditions or cultural symbols. All gameplay revolves around exploration, survival and resource collection, ensuring that all players from any background can enjoy the game wihtout encountering inappropriate or culturally sensitive material.
 
 
 ## **Researching and Planning**
