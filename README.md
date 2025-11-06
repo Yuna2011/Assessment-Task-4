@@ -1,4 +1,4 @@
-# Assessment-Task-4  
+# Assessment Task 4  
 By Yuna Shin
 
 ## **Identifying and Defining**
@@ -117,7 +117,7 @@ The game will not collect any personal information or user data. All gameplay in
 **Fairness and Representation:**  
 The game is designed to avoid stereotupe or bias as it focuses on survival and exploration in a snowy environment. The character does not have a specific gender, race or cultural background and all interactions and scenarios have no relation to do with identity. 
 
-**Mental and Emotional Weel-Being:**  
+**Mental and Emotional Well-Being:**  
 The game promotes a calm and relaxing experience for players. The snowy environment, gentle visuals and slow-paced gameplay encourages mindfulness and reduces stress. By focusing on exploration, collecting resources and maintaining warmth, the game provides a soothing and positive experience without any violent or distressing content.
 
 **Cultural Sensitivities:**  
@@ -128,15 +128,70 @@ The game avoids content that could be offensive to different cultures by focusin
 ## Exploration of Existing Ideas
 | Existing Idea | Plus | Minus | Implication | 
 |----------|----------|----------| -------- | 
-| ![](Sledding_Game.png) Sledding Game  | Add what you think the existing idea has done well - no dot points, use sentences. | Add what you think has not been done well - no dot points, use sentences. | Evaluate what this means for your game moving forward. Look at both positive and negative aspects - what will you use based on these points, and what will you avoid? What is the implication for your project? | 
-| ![](Animal_Crossing.png) Animal Crossing |  |  |  | 
-| ![](A_Short_Hike.png) A Short Hike |  |  |  | 
+| ![](Sledding_Game.png) Sledding Game  | The sledding game creates a fun and engaging sense of speed and movement through a snowy environment. The visuals are appealing and there a smooth animations and a realistic snow physics that makes the game play feel immersive. The excitement of sliding down hills gives players a clear and simple objective, making it easy to to pick up and play. | The game is very focused on action and competition, which limits its relazing potential. Some aspects are very fast-paced, offering little opportunity for exploration and creativity. There is also a minimal interaction in interacting with objects or the obstacles, which can make it seem less meaningful for players seeking a calm game. | For may game, I will focus less on spead and competition and more on creating an interactive experience that envourages exploration and mindfulness. I can take inspiration from the strong visuals and smooth physics for realism but avoid the repetitive and fast gameplay. | 
+| ![](Animal_Crossing.png) Animal Crossing | Animal crossing creates a peaceful and engaging environment where players can relax, explore and express their creativity. The game allows players to interact with nature, collect resources and build relationships with friendly characters, which helps to create a strong sense of calm. Its gentle music, soft visuals and open-ended gameplay makes it an inviting expereince that encourage players to play at their own pace. | While the game may offer a peaceful environment, it can become repetitive over time because of its fixed daily routines, time-based progresion and the dependance on social interactions. These features may fustrate those who prefer freedeom and independance. The game's structured nature makes it feel less relaxing for those who simply wanto to explore or unwind at their own pace. | For my game, I will keep the calm and creative atmosphere that Animal crowwing does well but avoid the time restrictions and social dependancies. PLayer will be free to explore, collect resources and build fires without pressure or other external goals. This will make the experience more personal and meditative, appealing to those who enjoy calm, solitary gameplay. | 
+| ![](A_Short_Hike.png) A Short Hike | A short hike does an excellent job of simple exploration. It encourages players to wander freely, interact with other characters and enjoy the peacefulness of nature withou feeling rushed. The visuals are stylized and the relaxing music enhances the sense of calm and disovery. The game creates a short but meaningful experience. | The game is relatively short in the length and lacks replayability once the main goal is achieved. While the freedom to explore is enjoyable, there are limited mechanics or evolving challenges to keep players engaged over time. The focus on dialogue and interaction with other characters may also not appeal to players who prefer quieter, more solitary experiences. | For my game, I can take inspiration from the sense of freedom, calm tone and natural setting while expanding on the longetivity of the game. I can maintain the peaceful exploration and gentle atmohsphere but indluce ongoing survival elements like collecting firewood, making fires and managing warmth. My game will be more solitary and meditative, offering a continuous epxerience encouraging mindfulness rather than conversation or story progression. | 
 
 ## Flowchart
+**Player Movement and Jumping**
+![](PMaJ.png)
+
+**Camera Control**
+![](CC.png)
+
+**Object Interaction**
+![](OI.png)
+
+**Inventory System**
+![](IS.png)
+
+**Fire-Making**
+![](FM.png)
+
+**Health System**
+![](HS.png)
+
+**User Interface**
+![](UI.png)
+
+**Pause and Settings Menu**
+![](PM.png)
 
 ## Pseudocode
+**Player Movement and Jumping**
+![](Player_movement_and_Jumping.png)
+
+**Camera Control**
+![](Camera_Control.png)
+
+**Object Interaction**
+![](Object_Interaction.png)
+
+**Inventory System**
+![](Inventory_System.png)
+
+**Fire-Making**
+![](Fire_Making.png)
+
+**Health System**
+![](Health_System.png)
+
+**User Interface**
+![](User_Interface.png)
+
+**Pause and Settings Menu**
+![](Pause_and_Settings_Menu.png)
 
 ## Storyboards
+**Start Screen**
+![](Start_Screen.jpeg)
+
+**Background**
+![](Background.jpeg)
+
+**Flowchart**
+![](Flowchart.png)
 
 ## Gantt Chart
-
+![](Gantt_CHart.png)
+https://docs.google.com/spreadsheets/d/1pOqH3sIC76ER3WUtvBrtCD8UY9baDhqnpTJXwNJjB_w/edit?gid=0#gid=0 
